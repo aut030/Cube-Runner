@@ -9,4 +9,4 @@ Steps to run executable file on a Mac
 6. Exit the Terminal and go to the application and open it, you may have to open it from the file finder instead of straight from the Desktop.
 
 Controls:
-1. use the 'a' and 'd' keys to move left and right.
+1. use the 'a' and 'd' keys to move left and right, avoid the red blocks and make it through the last level.
